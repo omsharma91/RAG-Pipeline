@@ -62,5 +62,3 @@ Using local models keeps data on your machine. Enabling Gemini sends content to 
 - Add a benchmark script to measure embedding and generation latency.
 
 ---
-
-If you'd like, I can add `requirements.txt` and a short benchmark script next.
