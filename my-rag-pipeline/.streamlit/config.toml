@@ -1,0 +1,10 @@
+[logger]
+level = "warning"
+
+[client]
+showErrorDetails = true
+
+[server]
+maxUploadSize = 200
+headless = true
+fileWatcherType = "none"
